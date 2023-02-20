@@ -1,2 +1,2 @@
-# Matplotlib-Challenge-Projects
+# Matplotlib Challenge Projects
 Four codecademy projects using Matplotlib to investigate twitch data, 
